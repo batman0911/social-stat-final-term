@@ -7,3 +7,5 @@ arviz==0.15.1
 pymc==5.6.1
 Theano==1.0.5
 scipy==1.11.1
+pyreadr==0.4.7
+statsmodels==0.14.0
