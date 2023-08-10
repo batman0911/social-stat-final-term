@@ -1,0 +1,6 @@
+'polviews_Extremely liberal'
+'polviews_Extrmly conservative'
+'polviews_Liberal'
+'polviews_Moderate'
+'polviews_Slghtly conservative'
+'polviews_Slightly libera'
