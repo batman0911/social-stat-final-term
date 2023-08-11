@@ -9,3 +9,4 @@ Theano==1.0.5
 scipy==1.11.1
 pyreadr==0.4.7
 statsmodels==0.14.0
+tqdm=4.66.0
